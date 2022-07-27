@@ -1,6 +1,6 @@
 {
    "name": "complete-renovations-dfw",
-   "proxy": "http://146.190.26.151:5432/",
+   "proxy": "http://137.184.142.14:5432/",
    "version": "0.1.0",
    "private": true,
    "dependencies": {
