@@ -6,7 +6,7 @@ import axios from "axios";
 
 import App from "./App";
 
-axios.defaults.baseURL = "http://146.190.26.151:5432/";
+axios.defaults.baseURL = "http://159.203.178.3:5432/";
 
 const root = ReactDOM.createRoot(
    document.getElementById("root") as HTMLElement
