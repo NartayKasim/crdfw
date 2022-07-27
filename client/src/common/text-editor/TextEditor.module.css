@@ -1,0 +1,32 @@
+strong {
+   font-weight: 700;
+}
+
+p {
+   font-weight: 500;
+}
+
+ul,
+li {
+   padding: 0.25rem 1rem;
+}
+
+th,
+td {
+   text-align: left;
+   outline: 1px solid var(--light-gray);
+   padding: 0.5rem 1rem;
+}
+
+table {
+   border-radius: 0.5rem;
+   overflow: hidden;
+}
+
+.ck,
+.ck-editor {
+   flex-grow: 1;
+   position: relative;
+   height: 30rem;
+   min-height: 30rem;
+}

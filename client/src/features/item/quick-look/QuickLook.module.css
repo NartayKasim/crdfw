@@ -1,0 +1,14 @@
+.quickLook {
+   position: relative;
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2rem;
+}
+
+@media only screen and (max-width: 820px) {
+   .quickLook {
+      flex-direction: column;
+      gap: 1rem;
+   }
+}

@@ -1,0 +1,19 @@
+.badge {
+   position: relative;
+   display: flex;
+   align-items: center;
+   gap: 0.5rem;
+   font-family: var(--font-family--header);
+}
+
+.iconWrapper {
+   display: flex;
+   align-items: center;
+}
+
+.textWrapper {
+   text-transform: uppercase;
+   font-weight: 700;
+   font-size: 1rem;
+   font-family: var(--font-family--header);
+}

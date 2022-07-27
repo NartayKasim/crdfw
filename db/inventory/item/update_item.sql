@@ -1,0 +1,1 @@
+UPDATE items SET title = $2, category = $3, brand = $4, location = $5, condition = $6, description = $7 WHERE id = $1 RETURNING *;
